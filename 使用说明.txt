@@ -1,0 +1,21 @@
+你好.
+或许你看到一堆以.md为后缀的文件不知所措.
+这是使用markdown语法编写的文档.
+你可以下载对应的文档编辑器来阅读它们.
+这是一些常用的文档编辑器:
+Typora: 一款好用的markdown编辑器, 他曾经是我心目中的神, 可视化编辑, 支持中文, 打开的速度也很快. 直到他后来付费了.
+	下载地址:https://typoraio.cn/#
+MarkText: 比起Typora, 它不支持中文, 打开的速度也稍慢一点, 但功能更丰富, 可以将.md文件作为pdf或者html页面导出. 更重要的是, 他是免费的.
+	下载地址:
+		github下载: https://github.com/marktext/marktext#download-and-installation
+		或许你不懂怎么在github下载, 好吧, 如果你是windows系统, 直接在浏览器打开这个: https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-setup.exe
+Sublime Text: 这不是一个那么好的markdown编辑器, 我推荐它有别的原因, 它作为一个文本编辑器, 兼容各种各样的插件, 你可以用它来编辑一些别的东西, 也可以选择装一个markdown的插件, 用来编辑markdown文件.
+	       它不支持可视化编辑, 所以对于新手很不友好.
+		下载地址:	https://www.sublimetext.com/
+其他: 还有像vscode之类的其他编辑器, 我了解的不多, 交给其他朋友做推荐吧.
+
+如果遇到了什么问题, 去问群里的大佬, 或者联系我.
+C语言/C++编程初学者群号 : 705574693
+我的qq号 : 3448097486
+
+除非你遇到的确实是你难以解决的疑难杂症, 否则, 任何以偷懒为目的的问题都会受到大佬们的审判.
